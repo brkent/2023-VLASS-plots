@@ -1,6 +1,6 @@
 # 2023-VLASS-plots
 
 
-![png](CitationBarGraph.png)
+![png](CitationBarGraph2.png)
 
-![png](CitationMap.png)
+![png](CitationMap2.png)
